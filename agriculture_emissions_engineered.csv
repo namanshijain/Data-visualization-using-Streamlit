@@ -1,0 +1,1009 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note,emission_type,decade,emission_intensity,rolling_5yr_mean
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,53.649,E,Estimated value,,CH4,1960,0.6071068580436841,53.649
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,1.1077,E,Estimated value,,N2O,1960,0.36481272955959054,1.1077
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,33.4734,E,Estimated value,,CH4,1960,1.1861809035615842,33.4734
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,1.1998,E,Estimated value,,N2O,1960,0.6425784271886588,1.1998
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,178.7986,E,Estimated value,,CH4,1960,0.5576615845435102,178.7986
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,3.4097,E,Estimated value,,N2O,1960,0.07936335992619738,3.4097
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,6.0945,E,Estimated value,,N2O,1960,0.2572684457683462,6.0945
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,856.1429,E,Estimated value,,CH4,1960,0.8138313900718961,856.1429
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,0.0293,E,Estimated value,,N2O,1960,0.6322224886118437,0.0293
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,2.2544,E,Estimated value,,CH4,1960,0.7848640870214422,2.2544
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,3744.1841,E,Estimated value,,CH4,1960,0.835347495832748,3744.1841
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,41.3941,E,Estimated value,,N2O,1960,0.16730746930438786,41.3941
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1960,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1960,0.0,0.0
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,1.0327,E,Estimated value,,N2O,1960,0.3931694022093839,1.0327
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1961,1961,3050,FAO TIER 1,kt,116.8485,E,Estimated value,,CH4,1960,0.7885359663427701,116.8485
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,1.0418,E,Estimated value,,N2O,1960,0.39663395295994597,1.03725
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,117.0569,E,Estimated value,,CH4,1960,0.7899423249642828,116.9527
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1960,0.072,5e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1960,0.0,0.0
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,3852.4741,E,Estimated value,,CH4,1960,0.8595075739452875,3798.3291
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,43.7519,E,Estimated value,,N2O,1960,0.1768372706800884,42.573
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,0.0303,E,Estimated value,,N2O,1960,0.6538000479501319,0.0298
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,2.3157,E,Estimated value,,CH4,1960,0.8062055386424564,2.28505
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,6.0988,E,Estimated value,,N2O,1960,0.2574499625977503,6.09665
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,877.4184,E,Estimated value,,CH4,1960,0.8340554318054368,866.78065
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,175.0993,E,Estimated value,,CH4,1960,0.5461237005796437,176.94895
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,3.4614,E,Estimated value,,N2O,1960,0.08056671673418177,3.43555
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,33.5933,E,Estimated value,,CH4,1960,1.1904297426498465,33.53335
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,1.2111,E,Estimated value,,N2O,1960,0.6486303827039378,1.20545
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,57.018,E,Estimated value,,CH4,1960,0.6452313898103372,55.3335
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1962,1962,3050,FAO TIER 1,kt,1.3249,E,Estimated value,,N2O,1960,0.43634592885573853,1.2163
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,1.1356,E,Estimated value,,N2O,1960,0.374001386375256,1.1894
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,57.9294,E,Estimated value,,CH4,1960,0.6555450431947621,56.198800000000006
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,1.1384,E,Estimated value,,N2O,1960,0.6096943503180273,1.1831
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,33.5933,E,Estimated value,,CH4,1960,1.1904297426498465,33.553333333333335
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,189.6708,E,Estimated value,,CH4,1960,0.5915712923347008,181.18956666666668
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,4.1159,E,Estimated value,,N2O,1960,0.09580070185653745,3.662333333333333
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,6.8709,E,Estimated value,,N2O,1960,0.29004278677983913,6.354733333333333
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,909.0912,E,Estimated value,,CH4,1960,0.8641629277053259,880.8841666666667
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,2.3768,E,Estimated value,,CH4,1960,0.8274773607312649,2.315633333333333
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,0.0312,E,Estimated value,,N2O,1960,0.6732198513545913,0.030266666666666664
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,1.0476,E,Estimated value,,N2O,1960,0.3988421281636009,1.0407
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,117.0699,E,Estimated value,,CH4,1960,0.7900300536690797,116.99176666666666
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,3864.1586,E,Estimated value,,CH4,1960,0.8621144483815787,3820.272266666667
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,45.0766,E,Estimated value,,N2O,1960,0.18219146861137625,43.40753333333333
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1960,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1963,1963,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1960,0.072,6.666666666666667e-05
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,1.0671,E,Estimated value,,N2O,1960,0.40626616548623373,1.0473
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,118.251,E,Estimated value,,CH4,1960,0.7980005439179699,117.30657500000001
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,2.4382,E,Estimated value,,CH4,1960,0.848853627118382,2.346275
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,0.032,E,Estimated value,,N2O,1960,0.6904818988252219,0.030699999999999998
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1960,0.072,7.500000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1960,0.0,0.0
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,3934.0693,E,Estimated value,,CH4,1960,0.8777118994195537,3848.721525
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,49.4644,E,Estimated value,,N2O,1960,0.19992616301984975,44.92175
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,199.3848,E,Estimated value,,CH4,1960,0.6218686471923768,185.73837500000002
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,4.5667,E,Estimated value,,N2O,1960,0.10629341460391399,3.888425
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,931.3819,E,Estimated value,,CH4,1960,0.8853519971546849,893.5086
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,6.884,E,Estimated value,,N2O,1960,0.29059577991127983,6.48705
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,58.2415,E,Estimated value,,CH4,1960,0.6590768527419193,56.709475
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,1.189,E,Estimated value,,N2O,1960,0.3915882779149167,1.1893
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,1.2184,E,Estimated value,,N2O,1960,0.652540053081065,1.191925
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1964,1964,3050,FAO TIER 1,kt,35.026,E,Estimated value,,CH4,1960,1.2411996489196813,33.9215
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,1.2299,E,Estimated value,,N2O,1960,0.6586991228532517,1.1995200000000001
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,35.015,E,Estimated value,,CH4,1960,1.2408098471684645,34.1402
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,46.7522,E,Estimated value,,CH4,1960,0.529060769979495,54.71802
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,1.1847,E,Estimated value,,N2O,1960,0.3901721050006744,1.18838
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,944.6535,E,Estimated value,,CH4,1960,0.8979677003001273,903.73758
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,7.1262,E,Estimated value,,N2O,1960,0.3008198208605117,6.614879999999999
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,4.3883,E,Estimated value,,N2O,1960,0.102141018964757,3.9884
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,205.2271,E,Estimated value,,CH4,1960,0.6400904133324838,189.63612
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1960,0.072,8e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1960,0.0,0.0
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,119.3346,E,Estimated value,,CH4,1960,0.8053130688808836,117.71217999999999
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,1.0942,E,Estimated value,,N2O,1960,0.41658367376538,1.05668
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,47.4189,E,Estimated value,,N2O,1960,0.1916586217890433,45.42118
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,3828.9073,E,Estimated value,,CH4,1960,0.8542496948349118,3844.75868
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,2.4995,E,Estimated value,,CH4,1960,0.870195078739396,2.3769199999999997
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1965,1965,3050,FAO TIER 1,kt,0.0328,E,Estimated value,,N2O,1960,0.7077439462958525,0.031120000000000002
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,2.5607,E,Estimated value,,CH4,1960,0.8915017155943076,2.43818
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,0.0337,E,Estimated value,,N2O,1960,0.7271637497003118,0.032
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,50.7592,E,Estimated value,,N2O,1960,0.2051595105562214,47.294200000000004
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,3805.6984,E,Estimated value,,CH4,1960,0.8490716651285112,3857.06154
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,118.1879,E,Estimated value,,CH4,1960,0.7975747222816097,117.98006000000001
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,1.0852,E,Estimated value,,N2O,1960,0.41315719500108783,1.06718
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1960,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1960,0.072,0.0001
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,207.5385,E,Estimated value,,CH4,1960,0.6472995245140807,195.38410000000002
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,5.0336,E,Estimated value,,N2O,1960,0.11716086709226826,4.31318
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,7.0897,E,Estimated value,,N2O,1960,0.299279038471383,6.81392
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,915.8697,E,Estimated value,,CH4,1960,0.8706064268894018,915.68294
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,1.3108,E,Estimated value,,N2O,1960,0.43170219906717644,1.229
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,57.805,E,Estimated value,,CH4,1960,0.6541372985370679,55.549220000000005
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,35.2969,E,Estimated value,,CH4,1960,1.2507994029564635,34.5049
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1966,1966,3050,FAO TIER 1,kt,1.1673,E,Estimated value,,N2O,1960,0.6251723604411746,1.1930200000000002
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,32.8079,E,Estimated value,,CH4,1960,1.1625978976129734,34.34782
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,1.3661,E,Estimated value,,N2O,1960,0.7316439318073236,1.22402
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,58.9749,E,Estimated value,,CH4,1960,0.6673762091081001,55.940599999999996
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,1.3096,E,Estimated value,,N2O,1960,0.4313069880213414,1.22594
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,998.0625,E,Estimated value,,CH4,1960,0.9487371696402923,939.8117599999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,8.0923,E,Estimated value,,N2O,1960,0.3416020089738596,7.212619999999999
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,6.6973,E,Estimated value,,N2O,1960,0.15588474951864437,4.96036
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,209.4122,E,Estimated value,,CH4,1960,0.653143476932943,202.24668000000003
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,1.1039,E,Estimated value,,N2O,1960,0.4202766564335615,1.0796000000000001
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,123.8556,E,Estimated value,,CH4,1960,0.8358224130644689,119.33980000000001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1960,0.072,0.0001
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1960,1.9687500000000009,2e-05
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,0.0346,E,Estimated value,,N2O,1960,0.7465835531047711,0.03286
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,2.6222,E,Estimated value,,CH4,1960,0.9129127967475273,2.4994799999999997
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,60.0972,E,Estimated value,,N2O,1960,0.24290201850697704,50.56326
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1967,1967,3050,FAO TIER 1,kt,3933.4208,E,Estimated value,,CH4,1960,0.8775672156015096,3873.2508800000005
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,65.6557,E,Estimated value,,N2O,1960,0.26536847068563146,54.67908
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,3992.2812,E,Estimated value,,CH4,1960,0.8906992856147641,3898.8754
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,1.4767,E,Estimated value,,N2O,1960,0.7908781158772231,1.29168
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,32.5714,E,Estimated value,,CH4,1960,1.154217159961814,34.14344
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1960,0.0,7.999999999999999e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1960,1.9687500000000009,4e-05
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,1.1474,E,Estimated value,,N2O,1960,0.4368379704609733,1.09956
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,124.7768,E,Estimated value,,CH4,1960,0.8420390040536125,120.88118
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,7.876,E,Estimated value,,N2O,1960,0.1833198881950701,5.71238
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,228.9935,E,Estimated value,,CH4,1960,0.7142163197036461,210.11122
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,8.1922,E,Estimated value,,N2O,1960,0.3458191092662967,7.4768799999999995
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,983.2169,E,Estimated value,,CH4,1960,0.9346252552806085,954.6368999999999
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,61.407,E,Estimated value,,CH4,1960,0.6948985224680517,56.636120000000005
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,1.6062,E,Estimated value,,N2O,1960,0.5289899848502433,1.32006
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,2.6856,E,Estimated value,,CH4,1960,0.9349853584567003,2.56124
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1968,1968,3050,FAO TIER 1,kt,0.0358,E,Estimated value,,N2O,1960,0.772476624310717,0.03378
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,32.6198,E,Estimated value,,CH4,1960,1.1559322876671676,33.6622
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,1.5279,E,Estimated value,,N2O,1960,0.8182993656455674,1.3535800000000002
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1960,0.0,6.000000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1960,1.9687500000000009,6.000000000000001e-05
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,4070.9948,E,Estimated value,,CH4,1960,0.908260710718829,3926.2605000000003
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,69.9261,E,Estimated value,,N2O,1960,0.2826286555167417,58.77142
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,0.0366,E,Estimated value,,N2O,1960,0.7897386717813475,0.0347
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,2.747,E,Estimated value,,CH4,1960,0.9563616248438173,2.623
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,58.0748,E,Estimated value,,CH4,1960,0.6571904296355077,56.602779999999996
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,1.4569,E,Estimated value,,N2O,1960,0.47981914389759645,1.37364
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,238.8386,E,Estimated value,,CH4,1960,0.7449225672133543,218.00198
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,9.492,E,Estimated value,,N2O,1960,0.22093351685469853,6.69744
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,1040.9524,E,Estimated value,,CH4,1960,0.9895074043021046,976.551
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,8.8875,E,Estimated value,,N2O,1960,0.3751699584487942,7.87758
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,1.1983,E,Estimated value,,N2O,1960,0.4562166114723586,1.1258
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1969,1969,3050,FAO TIER 1,kt,126.0115,E,Estimated value,,CH4,1960,0.8503712065007422,122.43328000000001
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,9.1657,E,Estimated value,,N2O,1970,0.21333863626581437,7.65292
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,222.2552,E,Estimated value,,CH4,1970,0.6931999859340889,221.4076
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,1.6067,E,Estimated value,,N2O,1970,0.5291546561193412,1.45804
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,77.7943,E,Estimated value,,CH4,1970,0.880341722058338,62.81120000000001
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,1.2462,E,Estimated value,,N2O,1970,0.47445309289564663,1.1562
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,127.0551,E,Estimated value,,CH4,1970,0.8574137969873579,123.97738
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,1000.482,E,Estimated value,,CH4,1970,0.9510370953282573,987.7167
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,8.6878,E,Estimated value,,N2O,1970,0.3667399791855341,8.1899
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,N2O,1970,0.072,6.000000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,6.000000000000001e-05
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,4062.5826,E,Estimated value,,CH4,1970,0.906383903912122,3972.9955600000003
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,73.8079,E,Estimated value,,N2O,1970,0.2983181893958639,64.04922
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,2.8082,E,Estimated value,,CH4,1970,0.9776682616987286,2.68474
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,0.0375,E,Estimated value,,N2O,1970,0.8091584751858069,0.03563999999999999
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,32.1548,E,Estimated value,,CH4,1970,1.1394543045475523,33.090160000000004
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1970,1970,3050,FAO TIER 1,kt,1.4508,E,Estimated value,,N2O,1970,0.7770068196076897,1.39776
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,4081.3761,E,Estimated value,,CH4,1970,0.9105768342658759,4028.1311
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,80.44,E,Estimated value,,N2O,1970,0.32512393869766365,69.98537999999999
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,6.000000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1970,0.0,4.000000000000001e-05
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,10.8613,E,Estimated value,,N2O,1970,0.25280501544605316,8.81846
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,215.3512,E,Estimated value,,CH4,1970,0.6716668442893087,222.97014
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,1.4082,E,Estimated value,,N2O,1970,0.754191482886372,1.4459399999999998
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,32.1894,E,Estimated value,,CH4,1970,1.1406804082377429,32.46866
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,1.6875,E,Estimated value,,N2O,1970,0.5557655332055693,1.53338
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,75.0975,E,Estimated value,,CH4,1970,0.8498239906044021,66.2697
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,7.7601,E,Estimated value,,N2O,1970,0.3275787785719818,8.32398
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,938.4271,E,Estimated value,,CH4,1970,0.8920490157357355,992.2281799999998
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,128.9829,E,Estimated value,,CH4,1970,0.8704232890725416,126.13638
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,1.2645,E,Estimated value,,N2O,1970,0.48142026638304053,1.1920600000000001
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,0.0384,E,Estimated value,,N2O,1970,0.8285782785902661,0.03658
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1971,1971,3050,FAO TIER 1,kt,2.8697,E,Estimated value,,CH4,1970,0.9990793428519484,2.74654
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,11.8237,E,Estimated value,,N2O,1970,0.27520560716760417,9.84374
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,218.3054,E,Estimated value,,CH4,1970,0.680880808230069,224.74877999999998
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,1.5338,E,Estimated value,,N2O,1970,0.5051455850848606,1.5782200000000002
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,69.1759,E,Estimated value,,CH4,1970,0.7828135342940984,68.3099
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,4.000000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1970,0.0,2e-05
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,80.0666,E,Estimated value,,N2O,1970,0.3236147233979408,73.97926
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,3967.8736,E,Estimated value,,CH4,1970,0.8852538195279637,4035.02166
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,2.9312,E,Estimated value,,CH4,1970,1.0204904240051682,2.80834
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,0.0393,E,Estimated value,,N2O,1970,0.8479980819947256,0.03752
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,8.9908,E,Estimated value,,N2O,1970,0.37953058367610903,8.50368
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,971.8845,E,Estimated value,,CH4,1970,0.9238529147696368,986.9925799999999
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,122.5777,E,Estimated value,,CH4,1970,0.8271986813829374,125.8808
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,1.256,E,Estimated value,,N2O,1970,0.478184147550098,1.22248
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,34.0862,E,Estimated value,,CH4,1970,1.207896404756639,32.72432
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1972,1972,3050,FAO TIER 1,kt,1.6222,E,Estimated value,,N2O,1970,0.8688037377774981,1.49716
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,11.1364,E,Estimated value,,N2O,1970,0.2592081771071075,10.495819999999998
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,223.0069,E,Estimated value,,CH4,1970,0.6955444909419657,223.55146
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,1.6654,E,Estimated value,,N2O,1970,0.8919404172695384,1.5349
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,33.4719,E,Estimated value,,CH4,1970,1.1861277487773274,32.90442
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,1.6676,E,Estimated value,,N2O,1970,0.549211616695471,1.5905
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,72.7377,E,Estimated value,,CH4,1970,0.8231198439546699,70.57604
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,131.8467,E,Estimated value,,CH4,1970,0.8897492479030993,127.29477999999999
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,1.4025,E,Estimated value,,N2O,1970,0.5339596074355195,1.2734999999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,9.4464,E,Estimated value,,N2O,1970,0.39876292494972604,8.75452
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,996.9343,E,Estimated value,,CH4,1970,0.9476647265069332,989.73606
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,2.9926,E,Estimated value,,CH4,1970,1.0418666903922853,2.8697399999999997
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,0.0401,E,Estimated value,,N2O,1970,0.8652601294653561,0.03838
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,82.8507,E,Estimated value,,N2O,1970,0.3348675523105237,77.41826
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,4139.7835,E,Estimated value,,CH4,1970,0.9236078375565798,4064.52212
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,2e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1973,1973,3050,FAO TIER 1,kt,0.0002,E,Estimated value,,N2O,1970,0.144,6.000000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1970,1.9687500000000009,2e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,0.0002,E,Estimated value,,N2O,1970,0.144,0.0001
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,133.2389,E,Estimated value,,CH4,1970,0.8991443173506524,128.74025999999998
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,1.4169,E,Estimated value,,N2O,1970,0.5394419734583868,1.31722
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,3.0538,E,Estimated value,,CH4,1970,1.0631733272471966,2.9311
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,0.0426,E,Estimated value,,N2O,1970,0.9192040278110766,0.03958
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,78.6384,E,Estimated value,,N2O,1970,0.31784219717655837,79.16072
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,4096.4937,E,Estimated value,,CH4,1970,0.9139496516716763,4069.6218999999996
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,11.5795,E,Estimated value,,N2O,1970,0.26952166650010334,10.91332
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,236.3603,E,Estimated value,,CH4,1970,0.7371929054320305,223.0558
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,1.8195,E,Estimated value,,N2O,1970,0.9744719522168399,1.5932199999999999
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,33.4644,E,Estimated value,,CH4,1970,1.1858619748560433,33.07334
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,8.3624,E,Estimated value,,N2O,1970,0.3530037986534117,8.6495
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,988.2845,E,Estimated value,,CH4,1970,0.9394424089968028,979.2024799999999
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,1.734,E,Estimated value,,N2O,1970,0.5710799612316784,1.6459199999999998
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1974,1974,3050,FAO TIER 1,kt,86.3077,E,Estimated value,,CH4,1970,0.9766817009073212,76.22261999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,10.2517,E,Estimated value,,N2O,1970,0.43275722790767973,8.96228
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,1042.5411,E,Estimated value,,CH4,1970,0.9910175890264155,987.6143
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,13.3789,E,Estimated value,,N2O,1970,0.31140406960043465,11.755959999999998
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,251.0323,E,Estimated value,,CH4,1970,0.7829539503642748,228.81122
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,64.7158,E,Estimated value,,CH4,1970,0.7323418144566246,73.60692
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,1.2723,E,Estimated value,,N2O,1970,0.41902251134663454,1.57904
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,1.926,E,Estimated value,,N2O,1970,1.031510294020134,1.68826
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,33.5637,E,Estimated value,,CH4,1970,1.189380821573845,33.35512
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,103.4795,E,Estimated value,,N2O,1970,0.4182454328004089,85.09504
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,4266.4584,E,Estimated value,,CH4,1970,0.951869685177765,4110.39706
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1970,1.9687500000000009,4e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,0.0005,E,Estimated value,,N2O,1970,0.35999999999999993,0.00017999999999999998
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,134.9343,E,Estimated value,,CH4,1970,0.9105854901285446,130.3161
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,1.4302,E,Estimated value,,N2O,1970,0.5445055476322852,1.35402
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,0.044,E,Estimated value,,N2O,1970,0.94941261088468,0.04087999999999999
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1975,1975,3050,FAO TIER 1,kt,3.1153,E,Estimated value,,CH4,1970,1.0845844084004164,2.99252
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,33.5574,E,Estimated value,,CH4,1970,1.1891575714799665,33.62872
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,2.02,E,Estimated value,,N2O,1970,1.0818539947667034,1.8106200000000001
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,135.574,E,Estimated value,,CH4,1970,0.914902417240741,131.63432
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,1.4683,E,Estimated value,,N2O,1970,0.5590109744011217,1.3947800000000001
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,0.0448,E,Estimated value,,N2O,1970,0.9666746583553106,0.042159999999999996
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,3.1768,E,Estimated value,,CH4,1970,1.1059954895536361,3.05394
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,1.5554,E,Estimated value,,N2O,1970,0.5122593839098918,1.55262
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,68.8464,E,Estimated value,,CH4,1970,0.7790848215552703,72.3567
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,10.3148,E,Estimated value,,N2O,1970,0.435420881846146,9.473220000000001
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,997.3527,E,Estimated value,,CH4,1970,0.9480624487255093,999.39942
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,4165.5597,E,Estimated value,,CH4,1970,0.9293586456223702,4127.2337800000005
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,96.4892,E,Estimated value,,N2O,1970,0.3899919038511513,88.30488
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,257.0239,E,Estimated value,,CH4,1970,0.8016413738113874,237.14575999999997
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,15.0738,E,Estimated value,,N2O,1970,0.350854155748457,12.59846
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1970,0.0,0.00017999999999999998
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1976,1976,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,4e-05
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,1.9506,E,Estimated value,,N2O,1970,0.6424155550049087,1.63598
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,84.702,E,Estimated value,,CH4,1970,0.958511157524206,75.46191999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,11.8427,E,Estimated value,,N2O,1970,0.4999184547872333,10.043600000000001
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,1012.0726,E,Estimated value,,CH4,1970,0.9620548753154152,1007.43704
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,4355.0205,E,Estimated value,,CH4,1970,0.9716283632995723,4204.663159999999
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,109.2331,E,Estimated value,,N2O,1970,0.44150044391043963,94.13818
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,2.05,E,Estimated value,,N2O,1970,1.0979211333028425,1.89618
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,33.5475,E,Estimated value,,CH4,1970,1.1888067499038715,33.520979999999994
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,16.2437,E,Estimated value,,N2O,1970,0.37808446773416204,13.482459999999998
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,278.7495,E,Estimated value,,CH4,1970,0.8694021533765434,249.23458
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1970,0.0,0.00017999999999999998
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,4e-05
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,1.4866,E,Estimated value,,N2O,1970,0.5659781478885156,1.4408999999999998
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,135.8587,E,Estimated value,,CH4,1970,0.9168236758757922,134.29052000000001
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,0.0457,E,Estimated value,,N2O,1970,0.9860944617597699,0.04343999999999999
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1977,1977,3050,FAO TIER 1,kt,3.2381,E,Estimated value,,CH4,1970,1.1273369411746506,3.1153199999999996
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,2.0684,E,Estimated value,,N2O,1970,1.1077756449383411,1.9767800000000002
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,33.5561,E,Estimated value,,CH4,1970,1.1891115040002773,33.537819999999996
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1970,0.0,0.00014
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,4e-05
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,296.6598,E,Estimated value,,CH4,1970,0.9252632522758056,263.96516
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,18.8825,E,Estimated value,,N2O,1970,0.43950454403801564,15.03168
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,1.5256,E,Estimated value,,N2O,1970,0.5808262225337815,1.4655200000000002
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,135.7627,E,Estimated value,,CH4,1970,0.9161758331326768,135.07372
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,120.9648,E,Estimated value,,N2O,1970,0.48891785454717984,101.761
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,4377.6723,E,Estimated value,,CH4,1970,0.9766821010167173,4252.24092
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,2.3279,E,Estimated value,,N2O,1970,0.7666764946662191,1.7680399999999998
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,90.8752,E,Estimated value,,CH4,1970,1.0283687887209716,79.08942
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,11.98,E,Estimated value,,N2O,1970,0.5057143293633255,10.550320000000001
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,1019.6008,E,Estimated value,,CH4,1970,0.9692110235130342,1011.9703399999999
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,3.2995,E,Estimated value,,CH4,1970,1.1487132075617674,3.1767000000000003
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1978,1978,3050,FAO TIER 1,kt,0.0466,E,Estimated value,,N2O,1970,1.0055142651642295,0.044739999999999995
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,134.7971,E,Estimated value,,CH4,1970,0.9096596148748424,135.38536
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,1.4867,E,Estimated value,,N2O,1970,0.5660162198747856,1.47948
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,0.0476,E,Estimated value,,N2O,1970,1.0270918245025176,0.045739999999999996
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,3.361,E,Estimated value,,CH4,1970,1.1701242887149872,3.23814
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,85.4679,E,Estimated value,,CH4,1970,0.9671782928403473,78.92146
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,2.2319,E,Estimated value,,N2O,1970,0.7350596109994134,1.8676199999999998
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,120.0478,E,Estimated value,,N2O,1970,0.4852115063151341,110.04288
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,4264.4214,E,Estimated value,,CH4,1970,0.95141521958431,4285.82646
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,12.6487,E,Estimated value,,N2O,1970,0.5339423069964854,11.40758
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,1025.5395,E,Estimated value,,CH4,1970,0.9748562265232094,1019.4213400000001
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,32.7618,E,Estimated value,,CH4,1970,1.1609642739101471,33.397299999999994
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,1.9613,E,Estimated value,,N2O,1970,1.0504159603643244,2.00514
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,21.1772,E,Estimated value,,N2O,1970,0.4929154312194818,16.95122
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,298.2869,E,Estimated value,,CH4,1970,0.9303380748091518,276.35048
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1970,0.0,2e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1979,1979,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1970,0.0,9.999999999999998e-05
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,30.4397,E,Estimated value,,CH4,1980,1.0786771242282995,32.7725
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,2.0055,E,Estimated value,,N2O,1980,1.0740882111409027,2.02104
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,4342.757,E,Estimated value,,CH4,1980,0.9688923108669089,4301.08618
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,125.9833,E,Estimated value,,N2O,1980,0.5092017243427321,114.54363999999998
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,3.4575,E,Estimated value,,CH4,1980,1.2037205380041858,3.3065800000000003
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,0.0491,E,Estimated value,,N2O,1980,1.0594581635099498,0.04676
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,284.3195,E,Estimated value,,CH4,1980,0.8867746329480128,283.00792
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,22.7519,E,Estimated value,,N2O,1980,0.5295677709783412,18.82582
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,2.5785,E,Estimated value,,N2O,1980,0.8492097347381099,2.12886
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,89.1662,E,Estimated value,,CH4,1980,1.0090292740907518,83.81154000000001
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,13.2139,E,Estimated value,,N2O,1980,0.5578012167591023,12.000020000000001
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,1040.7549,E,Estimated value,,CH4,1980,0.9893196649661372,1019.0640999999999
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,1.6177,E,Estimated value,,N2O,1980,0.6158905218883707,1.5169799999999998
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1980,1980,3050,FAO TIER 1,kt,137.1373,E,Estimated value,,CH4,1980,0.9254521314106589,135.82596
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,27.9189,E,Estimated value,,CH4,1980,0.9893487374585647,31.644800000000004
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,1.7644,E,Estimated value,,N2O,1980,0.9449619744387977,1.9699200000000001
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,290.5597,E,Estimated value,,CH4,1980,0.9062374241548143,289.71508000000006
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,22.7822,E,Estimated value,,N2O,1980,0.5302730265157092,20.3675
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,12.9583,E,Estimated value,,N2O,1980,0.5470115187135877,12.52872
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,1056.255,E,Estimated value,,CH4,1980,1.0040537332265334,1030.84456
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,4402.3954,E,Estimated value,,CH4,1980,0.9821979568407466,4348.45332
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,135.9525,E,Estimated value,,N2O,1980,0.5494954285901804,122.43629999999999
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,91.2066,E,Estimated value,,CH4,1980,1.0321190023830282,88.28358
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,2.3308,E,Estimated value,,N2O,1980,0.7676315880269872,2.28394
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,139.447,E,Estimated value,,CH4,1980,0.941038822908298,136.60056
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,1.6801,E,Estimated value,,N2O,1980,0.6396474413207959,1.5593400000000002
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,3.4264,E,Estimated value,,CH4,1980,1.1928931457462162,3.3564999999999996
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1981,1981,3050,FAO TIER 1,kt,0.0504,E,Estimated value,,N2O,1980,1.0875089906497244,0.04788
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,291.4661,E,Estimated value,,CH4,1980,0.9090644287299633,292.25840000000005
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,25.3131,E,Estimated value,,N2O,1980,0.5891816482822028,22.181379999999997
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,80.7789,E,Estimated value,,CH4,1980,0.9141162775676145,87.49896
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,2.3058,E,Estimated value,,N2O,1980,0.7593980245720899,2.35498
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,1.6753,E,Estimated value,,N2O,1980,0.6378199859798401,1.59708
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,136.1875,E,Estimated value,,CH4,1980,0.919042537270962,136.66631999999998
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,1068.8055,E,Estimated value,,CH4,1980,1.0159839739154386,1042.1911400000001
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,14.2164,E,Estimated value,,N2O,1980,0.600119965939965,13.003459999999999
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,0.0515,E,Estimated value,,N2O,1980,1.1112443059218413,0.04904
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,3.5446,E,Estimated value,,CH4,1980,1.2340441992797213,3.4178000000000006
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,132.6497,E,Estimated value,,N2O,1980,0.5361461080440512,127.11961999999998
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,4140.7208,E,Estimated value,,CH4,1980,0.9238169541990666,4305.59338
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,1.9275,E,Estimated value,,N2O,1980,1.0323136509469408,1.94542
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,26.5957,E,Estimated value,,CH4,1980,0.9424591304394783,30.25444
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1982,1982,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,1.8385,E,Estimated value,,N2O,1980,0.9846478066230614,1.8994399999999998
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,24.9522,E,Estimated value,,CH4,1980,0.884219205155418,28.533660000000005
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,1.9946,E,Estimated value,,N2O,1980,0.7593838381396699,1.69088
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,143.626,E,Estimated value,,CH4,1980,0.9692402273195351,138.23898
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,2.4458,E,Estimated value,,N2O,1980,0.805505979919515,2.3785600000000002
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,84.1069,E,Estimated value,,CH4,1980,0.9517768420435485,86.14529999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,14.8195,E,Estimated value,,N2O,1980,0.6255787565943073,13.571359999999999
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,983.3197,E,Estimated value,,CH4,1980,0.9347229747932031,1034.9349200000001
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,0.0542,E,Estimated value,,N2O,1980,1.1695037161352195,0.05056000000000001
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,3.6684,E,Estimated value,,CH4,1980,1.2771448797149834,3.49158
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,24.7648,E,Estimated value,,N2O,1980,0.5764195489046816,23.35784
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,294.5021,E,Estimated value,,CH4,1980,0.9185335217243944,291.82686
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,4462.1287,E,Estimated value,,CH4,1980,0.9955247755120897,4322.48466
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1983,1983,3050,FAO TIER 1,kt,151.7503,E,Estimated value,,N2O,1980,0.6133472803897573,133.27672
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,2.8421,E,Estimated value,,N2O,1980,0.9360244278065473,2.5006
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,95.9283,E,Estimated value,,CH4,1980,1.0855510598607978,88.23738
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,2.0963,E,Estimated value,,N2O,1980,0.7981030481761707,1.8128
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,148.3414,E,Estimated value,,CH4,1980,1.0010614530579287,140.94783999999999
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,2.126,E,Estimated value,,N2O,1980,1.1386245509277282,1.9323799999999998
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,23.9984,E,Estimated value,,CH4,1980,0.8504198496726454,26.78098
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,3.7383,E,Estimated value,,CH4,1980,1.301480401220838,3.56704
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,0.056,E,Estimated value,,N2O,1980,1.2083433229441383,0.052239999999999995
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,24.8262,E,Estimated value,,N2O,1980,0.5778486805876649,24.08764
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,294.4455,E,Estimated value,,CH4,1980,0.9183569898853019,291.05858
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,166.0396,E,Estimated value,,N2O,1980,0.6711020478839458,142.47508
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,4453.6057,E,Estimated value,,CH4,1980,0.9936232486328471,4360.3215199999995
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,1032.2557,E,Estimated value,,CH4,1980,0.9812405046408001,1036.27816
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1984,1984,3050,FAO TIER 1,kt,15.8895,E,Estimated value,,N2O,1980,0.6707468978646544,14.21952
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,0.0536,E,Estimated value,,N2O,1980,1.1565571805322468,0.05314
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,3.8939,E,Estimated value,,CH4,1980,1.355652177276789,3.65432
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,2.8917,E,Estimated value,,N2O,1980,0.9523598177010636,2.56324
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,93.6497,E,Estimated value,,CH4,1980,1.059765794772197,89.13408
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,22.7208,E,Estimated value,,CH4,1980,0.8051461480949663,25.2372
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,2.0811,E,Estimated value,,N2O,1980,1.1145774002519735,1.9475000000000002
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,15.7754,E,Estimated value,,N2O,1980,0.665930369903022,14.731819999999999
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,1050.047,E,Estimated value,,CH4,1980,0.9981525393142012,1038.1365799999999
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,174.6608,E,Estimated value,,N2O,1980,0.7059473798120947,152.21058
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,4449.817,E,Estimated value,,CH4,1980,0.9927779694016625,4381.73352
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,149.9138,E,Estimated value,,CH4,1980,1.0116725773212045,143.50314
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,2.1121,E,Estimated value,,N2O,1980,0.8041184220068168,1.9116799999999998
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,275.2104,E,Estimated value,,CH4,1980,0.8583639231339243,289.23675999999995
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1985,1985,3050,FAO TIER 1,kt,28.8786,E,Estimated value,,N2O,1980,0.6721713716645698,25.31298
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,143.8634,E,Estimated value,,CH4,1980,0.970842288436364,144.38642
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,2.0706,E,Estimated value,,N2O,1980,0.7883185477048034,1.98978
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,0.0542,E,Estimated value,,N2O,1980,1.1695037161352195,0.0539
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,4.2392,E,Estimated value,,CH4,1980,1.4758675646297454,3.8168800000000003
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,303.8193,E,Estimated value,,CH4,1980,0.9475932823461711,291.88868
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,33.8774,E,Estimated value,,N2O,1980,0.7885222422980788,27.53202
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,90.5919,E,Estimated value,,CH4,1980,1.025162887904856,89.01114
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,2.8198,E,Estimated value,,N2O,1980,0.9286800892047788,2.6610400000000003
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,16.9797,E,Estimated value,,N2O,1980,0.7167677461010399,15.5361
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,1071.1775,E,Estimated value,,CH4,1980,1.01823874710488,1041.1210800000001
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,191.0041,E,Estimated value,,N2O,1980,0.7720040440005274,163.2209
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,4452.5422,E,Estimated value,,CH4,1980,0.993385976095469,4391.76288
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,23.8837,E,Estimated value,,CH4,1980,0.8463552805031402,24.43016
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1986,1986,3050,FAO TIER 1,kt,1.9859,E,Estimated value,,N2O,1980,1.0635910139639584,1.9918
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,171.0626,E,Estimated value,,N2O,1980,0.6914041058660239,170.90348
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,4199.4201,E,Estimated value,,CH4,1980,0.9369130819407915,4403.50274
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,153.6019,E,Estimated value,,CH4,1980,1.0365612108720739,147.8693
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,2.3544,E,Estimated value,,N2O,1980,0.8963668447388143,2.1256
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,1042.2827,E,Estimated value,,CH4,1980,0.9907719594344461,1035.8165199999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,17.9508,E,Estimated value,,N2O,1980,0.7577610002950904,16.282980000000002
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,73.6174,E,Estimated value,,CH4,1980,0.8330747714094412,87.57883999999999
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,2.7843,E,Estimated value,,N2O,1980,0.9169884290988246,2.75674
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,289.7006,E,Estimated value,,CH4,1980,0.9035579453038539,291.53558
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,32.2694,E,Estimated value,,N2O,1980,0.7510948197209236,28.92328
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,0.0515,E,Estimated value,,N2O,1980,1.1112443059218413,0.0539
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,4.4659,E,Estimated value,,CH4,1980,1.5547926393847848,4.00114
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,25.6744,E,Estimated value,,CH4,1980,0.9098114619489368,24.2459
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1987,1987,3050,FAO TIER 1,kt,2.1209,E,Estimated value,,N2O,1980,1.1358931373765846,2.03048
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,1.9576,E,Estimated value,,N2O,1980,1.0484343466115338,2.0543
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,28.0052,E,Estimated value,,CH4,1980,0.9924069093794738,24.8565
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,0.0362,E,Estimated value,,N2O,1980,0.7811076480460323,0.0503
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,3.1549,E,Estimated value,,CH4,1980,1.0983710557771238,3.89844
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,300.5777,E,Estimated value,,CH4,1980,0.9374829358867679,292.7507
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,33.3508,E,Estimated value,,N2O,1980,0.7762652269192666,30.640480000000004
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,2.9356,E,Estimated value,,N2O,1980,0.9668179551278633,2.8547000000000002
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,88.353,E,Estimated value,,CH4,1980,0.9998268789489761,88.42805999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,19.0646,E,Estimated value,,N2O,1980,0.8047780804323917,17.132
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,1032.4301,E,Estimated value,,CH4,1980,0.9814062856038013,1045.6385999999998
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,4514.1923,E,Estimated value,,CH4,1980,1.0071404430974624,4413.91546
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,207.3153,E,Estimated value,,N2O,1980,0.8379309657917423,182.01648
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,2.5073,E,Estimated value,,N2O,1980,0.9545789117455101,2.22814
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1988,1988,3050,FAO TIER 1,kt,156.6925,E,Estimated value,,CH4,1980,1.0574176981832415,150.4826
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,4561.6062,E,Estimated value,,CH4,1980,1.0177187377472006,4435.51556
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,210.5557,E,Estimated value,,N2O,1980,0.8510280768180465,190.91969999999998
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,310.3115,E,Estimated value,,CH4,1980,0.9678420456987554,295.9239
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,36.8185,E,Estimated value,,N2O,1980,0.8569785809433962,33.038940000000004
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,0.0362,E,Estimated value,,N2O,1980,0.7811076480460323,0.046340000000000006
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,3.1514,E,Estimated value,,CH4,1980,1.097152538963526,3.78106
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,74.7248,E,Estimated value,,CH4,1980,0.8456064147690113,84.18736
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,2.8717,E,Estimated value,,N2O,1980,0.9457729669371457,2.86062
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,1.9203,E,Estimated value,,N2O,1980,1.0284575376982674,2.01316
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,26.5255,E,Estimated value,,CH4,1980,0.9399714865362588,25.36192
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,2.7672,E,Estimated value,,N2O,1980,1.053528004061012,2.36232
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,154.9031,E,Estimated value,,CH4,1980,1.045342179386049,151.79494
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,1058.0085,E,Estimated value,,CH4,1980,1.0057205733562489,1050.7891599999998
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,21.7729,E,Estimated value,,N2O,1980,0.9191041337057386,18.30868
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1989,1989,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1980,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,218.2998,E,Estimated value,,N2O,1990,0.8823283291013456,199.64749999999998
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,4616.7471,E,Estimated value,,CH4,1990,1.0300209674193375,4468.90158
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,89.7044,E,Estimated value,,CH4,1990,1.0151196935020943,83.3983
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,2.6653,E,Estimated value,,N2O,1990,0.8777966670535133,2.81534
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,157.3,E,Estimated value,,CH4,1990,1.061517328042018,153.27218
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,2.861,E,Estimated value,,N2O,1990,1.08923952718219,2.5121
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,1053.7448,E,Estimated value,,CH4,1990,1.0016675900308605,1051.5287199999998
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,21.3,E,Estimated value,,N2O,1990,0.8991415037928908,19.413600000000002
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,0.0404,E,Estimated value,,N2O,1990,0.8717333972668425,0.0437
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,3.1862,E,Estimated value,,CH4,1990,1.109268077567299,3.63952
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,311.1688,E,Estimated value,,CH4,1990,0.9705159104629602,303.11558
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,36.8993,E,Estimated value,,N2O,1990,0.8588592623763776,34.64308
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,27.1977,E,Estimated value,,CH4,1990,0.9637919171878837,26.257299999999997
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1990,1990,3050,FAO TIER 1,kt,1.7641,E,Estimated value,,N2O,1990,0.9448013030534363,1.94976
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,26.9806,E,Estimated value,,CH4,1990,0.9560986480797793,26.87668
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,1.7533,E,Estimated value,,N2O,1990,0.9390171331804262,1.9032399999999998
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,3.7627,E,Estimated value,,CH4,1990,1.3099752041499204,3.54422
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,0.0393,E,Estimated value,,N2O,1990,0.8479980819947256,0.04072
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,1034.5073,E,Estimated value,,CH4,1990,0.9833808281287201,1044.19468
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,23.3323,E,Estimated value,,N2O,1990,0.9849314229552519,20.68412
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,309.0573,E,Estimated value,,CH4,1990,0.9639302748049426,304.16318
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,36.744,E,Estimated value,,N2O,1990,0.8552445368003626,35.2164
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,2.6988,E,Estimated value,,N2O,1990,0.8888296420830758,2.79114
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,85.6366,E,Estimated value,,CH4,1990,0.9690873484975258,82.40724
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,2.7449,E,Estimated value,,N2O,1990,1.0450379511228216,2.64696
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,136.7764,E,Estimated value,,CH4,1990,0.9230166475982597,151.85477999999998
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,228.2157,E,Estimated value,,N2O,1990,0.9224066043839434,207.08982
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,4613.7203,E,Estimated value,,CH4,1990,1.0293456721526366,4501.1372
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1991,1991,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,23.4998,E,Estimated value,,N2O,1990,0.9920021366587876,21.79392
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,1027.8069,E,Estimated value,,CH4,1990,0.9770115691580066,1041.29952
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,291.5752,E,Estimated value,,CH4,1990,0.9094047047660939,304.53810000000004
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,40.5513,E,Estimated value,,N2O,1990,0.9438623390254883,36.87278
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,237.6546,E,Estimated value,,N2O,1990,0.9605569318948008,220.40821999999997
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,4519.7657,E,Estimated value,,CH4,1990,1.0083838984428537,4565.206319999999
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,0.0387,E,Estimated value,,N2O,1990,0.8350515463917526,0.038160000000000006
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,3.5988,E,Estimated value,,CH4,1990,1.2529138025074371,3.3708
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,3.0051,E,Estimated value,,N2O,1990,1.1441012593971334,2.7771
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,156.8208,E,Estimated value,,CH4,1990,1.0582835130159673,152.49856
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,2.8129,E,Estimated value,,N2O,1990,0.9264076256912271,2.7968599999999997
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,82.9756,E,Estimated value,,CH4,1990,0.9389747397023154,84.27888
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,1.6172,E,Estimated value,,N2O,1990,0.8661258813548082,1.8024999999999998
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1992,1992,3050,FAO TIER 1,kt,27.0314,E,Estimated value,,CH4,1990,0.9578988234399438,27.14808
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,27.5714,E,Estimated value,,CH4,1990,0.9770345457724005,27.061320000000002
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,1.7835,E,Estimated value,,N2O,1990,0.955191385973473,1.76768
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,4602.5951,E,Estimated value,,CH4,1990,1.0268635805373663,4582.88688
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,246.6118,E,Estimated value,,N2O,1990,0.9967603150835466,228.26752000000002
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,3.5018,E,Estimated value,,CH4,1990,1.2191434793877245,3.4401800000000002
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,0.0415,E,Estimated value,,N2O,1990,0.8954687125389597,0.03922
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,322.3002,E,Estimated value,,CH4,1990,1.005234046746956,308.8826
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,41.4525,E,Estimated value,,N2O,1990,0.9648384542161177,38.49312
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,3.1363,E,Estimated value,,N2O,1990,1.0329170025437788,2.837
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,88.7997,E,Estimated value,,CH4,1990,1.0048818591627382,84.36822000000001
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,2.7985,E,Estimated value,,N2O,1990,1.0654445357634947,2.83534
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,148.1073,E,Estimated value,,CH4,1990,0.9994816615353946,150.78152
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,23.775,E,Estimated value,,N2O,1990,1.0036192137406563,22.735999999999997
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,1000.3464,E,Estimated value,,CH4,1990,0.9509081968272084,1034.88278
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1993,1993,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,97.1019,E,Estimated value,,CH4,1990,1.0988318406507487,88.84364000000001
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,3.3653,E,Estimated value,,N2O,1990,1.1083364437906384,2.93572
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,42.7719,E,Estimated value,,N2O,1990,0.9955484923680445,39.6838
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,313.3376,E,Estimated value,,CH4,1990,0.9772802612160308,309.48782
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,161.7759,E,Estimated value,,CH4,1990,1.0917223211035771,152.15608
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,3.2231,E,Estimated value,,N2O,1990,1.2270981894655422,2.92652
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,1001.6984,E,Estimated value,,CH4,1990,0.9521933795220333,1023.62076
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,24.9573,E,Estimated value,,N2O,1990,1.0535278991835828,23.372880000000002
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,0.9974,E,Estimated value,,N2O,1990,0.5341787991981732,1.5831000000000002
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,28.4408,E,Estimated value,,CH4,1990,1.0078430587276557,27.444380000000002
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,3.3993,E,Estimated value,,CH4,1990,1.1834583441323583,3.4897600000000004
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,0.0441,E,Estimated value,,N2O,1990,0.9515703668185089,0.0408
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,4632.7525,E,Estimated value,,CH4,1990,1.0335918577529088,4597.11614
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1994,1994,3050,FAO TIER 1,kt,262.2587,E,Estimated value,,N2O,1990,1.0600022563616232,238.60812
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,1004.9902,E,Estimated value,,CH4,1990,0.9553224951986786,1013.86984
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,28.0903,E,Estimated value,,N2O,1990,1.1857819053518046,24.73094
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,0.0483,E,Estimated value,,N2O,1990,1.0421961160393194,0.04238
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,3.6425,E,Estimated value,,CH4,1990,1.2681278552943591,3.58102
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,3.3411,E,Estimated value,,N2O,1990,1.2720231332640386,3.0225400000000002
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,163.399,E,Estimated value,,CH4,1990,1.1026755873155607,153.37588
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,1.0031,E,Estimated value,,N2O,1990,0.5372315555200398,1.4309
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,27.0016,E,Estimated value,,CH4,1990,0.9568428150593749,27.405160000000002
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,269.2162,E,Estimated value,,N2O,1990,1.0881232136402035,248.79139999999998
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,4632.2172,E,Estimated value,,CH4,1990,1.033472429460235,4600.2101600000005
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,96.3597,E,Estimated value,,CH4,1990,1.090432901061194,90.1747
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,3.2165,E,Estimated value,,N2O,1990,1.0593302741070896,3.04596
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,48.6066,E,Estimated value,,N2O,1990,1.1313555710439938,42.02526
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,318.8581,E,Estimated value,,CH4,1990,0.9944983534017214,311.02568
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1995,1995,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,48.5776,E,Estimated value,,N2O,1990,1.1306805739950274,44.391980000000004
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,331.7682,E,Estimated value,,CH4,1990,1.0347641430813677,315.56786
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,0.0,E,Estimated value,,CH4,1990,0.0,0.0
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,162.9083,E,Estimated value,,CH4,1990,1.0993641661275746,158.60226
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,3.4754,E,Estimated value,,N2O,1990,1.3231538108245309,3.16864
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,3.0447,E,Estimated value,,N2O,1990,1.0027492260450352,3.11514
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,71.5245,E,Estimated value,,CH4,1990,0.8093909386595367,87.35228
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,29.5988,E,Estimated value,,N2O,1990,1.249460541899766,25.98424
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,1030.0974,E,Estimated value,,CH4,1990,0.9791888701657703,1012.98786
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,27.5714,E,Estimated value,,CH4,1990,0.9770345457724005,27.523320000000002
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,1.1235,E,Estimated value,,N2O,1990,0.6017143381784115,1.30494
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,0.0503,E,Estimated value,,N2O,1990,1.0853512347158956,0.04458
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,3.6413,E,Estimated value,,CH4,1990,1.2677100781011257,3.5567400000000005
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,4697.0581,E,Estimated value,,CH4,1990,1.0479387810059675,4616.8777199999995
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1996,1996,3050,FAO TIER 1,kt,281.1143,E,Estimated value,,N2O,1990,1.1362131829964774,259.37112
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,27.153,E,Estimated value,,N2O,1990,1.1462154578633035,26.71488
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,1036.4619,E,Estimated value,,CH4,1990,0.9852388296785017,1014.7188600000002
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,3.5534,E,Estimated value,,N2O,1990,1.3528499601150623,3.2783
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,163.7622,E,Estimated value,,CH4,1990,1.1051265923603468,159.99053999999998
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,50.6795,E,Estimated value,,N2O,1990,1.1796038945888845,46.41762
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,340.8185,E,Estimated value,,CH4,1990,1.0629914593947734,325.41651999999993
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,295.0056,E,Estimated value,,N2O,1990,1.192359306437935,270.84132
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,4705.5751,E,Estimated value,,CH4,1990,1.0498389692531234,4654.0396
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,74.7551,E,Estimated value,,CH4,1990,0.8459492979131281,85.70818
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,3.1822,E,Estimated value,,N2O,1990,1.0480338250469705,3.189
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1990,1.9687500000000009,2e-05
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,3.4777,E,Estimated value,,CH4,1990,1.2107531207569506,3.5325200000000003
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,0.0508,E,Estimated value,,N2O,1990,1.0961400143850397,0.047
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,28.3047,E,Estimated value,,CH4,1990,1.0030201479694199,27.777980000000003
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1997,1997,3050,FAO TIER 1,kt,1.2272,E,Estimated value,,N2O,1990,0.6572530803849992,1.22694
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,1.2918,E,Estimated value,,N2O,1990,0.6918509853661522,1.1286
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,28.3717,E,Estimated value,,CH4,1990,1.005394394999558,27.93804
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,167.665,E,Estimated value,,CH4,1990,1.1314640992127458,163.90207999999998
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,3.7862,E,Estimated value,,N2O,1990,1.4414815441514182,3.4758400000000003
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1990,1.9687500000000009,4e-05
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,1022.1271,E,Estimated value,,CH4,1990,0.9716124710292592,1019.075
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,27.532,E,Estimated value,,N2O,1990,1.1622142667805573,27.46628
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,305.0017,E,Estimated value,,N2O,1990,1.2327617356226157,282.51930000000004
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,4848.3408,E,Estimated value,,CH4,1990,1.0816907604045811,4703.18874
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,3.267,E,Estimated value,,CH4,1990,1.1373984085783586,3.4855600000000004
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,0.0478,E,Estimated value,,N2O,1990,1.0314073363701752,0.048260000000000004
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,356.2977,E,Estimated value,,CH4,1990,1.1112701103431921,332.21601999999996
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,51.4217,E,Estimated value,,N2O,1990,1.196879163890355,48.41146
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,83.0742,E,Estimated value,,CH4,1990,0.940090524455118,84.56308
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1998,1998,3050,FAO TIER 1,kt,3.6913,E,Estimated value,,N2O,1990,1.2157021112424995,3.3
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,1990,1.9687500000000009,6.000000000000001e-05
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,1990,0.0,0.0
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,31.3286,E,Estimated value,,N2O,1990,1.3224809631796226,28.74054
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,1082.0434,E,Estimated value,,CH4,1990,1.028567642551402,1035.144
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,22.4326,E,Estimated value,,CH4,1990,0.7949333422130885,26.736399999999996
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,1.1115,E,Estimated value,,N2O,1990,0.5952874827639558,1.1514199999999999
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,3.3411,E,Estimated value,,N2O,1990,1.2720231332640386,3.49944
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,168.6373,E,Estimated value,,CH4,1990,1.1380255314953605,165.27436
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,94.3005,E,Estimated value,,CH4,1990,1.0671304267917097,84.00280000000001
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,4.2064,E,Estimated value,,N2O,1990,1.3853464526672041,3.46822
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,369.4048,E,Estimated value,,CH4,1990,1.152150330628867,343.42945999999995
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,53.9769,E,Estimated value,,N2O,1990,1.2563533866323615,50.65246
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,4888.3334,E,Estimated value,,CH4,1990,1.0906133233367408,4754.3049200000005
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,311.7208,E,Estimated value,,N2O,1990,1.2599191231972486,292.41172
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,0.0443,E,Estimated value,,N2O,1990,0.9558858786861665,0.048299999999999996
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,1999,1999,3050,FAO TIER 1,kt,3.0738,E,Estimated value,,CH4,1990,1.0701362804677559,3.42046
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,0.8097,E,Estimated value,,N2O,2000,0.4336520690903959,1.11274
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,20.8471,E,Estimated value,,CH4,2000,0.7387487352536255,25.5055
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,164.137,E,Estimated value,,CH4,2000,1.1076558784032593,165.42195999999998
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,3.1372,E,Estimated value,,N2O,2000,1.1943943532596875,3.4586599999999996
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,1090.8916,E,Estimated value,,CH4,2000,1.0369785549185244,1052.32428
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,31.4223,E,Estimated value,,N2O,2000,1.3264363415319884,29.40694
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,2000,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,8e-05
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,90.1021,E,Estimated value,,CH4,2000,1.0196201762220698,82.75128
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,4.0597,E,Estimated value,,N2O,2000,1.3370319023138666,3.63686
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,3.1194,E,Estimated value,,CH4,2000,1.0860118138106312,3.31584
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,0.0337,E,Estimated value,,N2O,2000,0.7271637497003118,0.04538
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,4841.137,E,Estimated value,,CH4,2000,1.0800835541001474,4796.08888
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,297.7288,E,Estimated value,,N2O,2000,1.2033659885595345,298.11424
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,349.7621,E,Estimated value,,CH4,2000,1.0908859851210562,349.61026000000004
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2000,2000,3050,FAO TIER 1,kt,55.5627,E,Estimated value,,N2O,2000,1.2932640873306527,52.043679999999995
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,55.3162,E,Estimated value,,N2O,2000,1.2875266124144409,53.3914
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,312.1979,E,Estimated value,,CH4,2000,0.9737256086186153,345.6962
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,4.0272,E,Estimated value,,N2O,2000,1.3263282698224999,3.8333600000000003
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,82.8518,E,Estimated value,,CH4,2000,0.9375737848098512,85.01674
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,19.2605,E,Estimated value,,CH4,2000,0.6825251481190406,23.84332
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,1.0885,E,Estimated value,,N2O,2000,0.5829693432195825,1.1057400000000002
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,2.7885,E,Estimated value,,CH4,2000,0.9708097527764777,3.14528
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,0.0348,E,Estimated value,,N2O,2000,0.7508990649724288,0.04228
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,4859.4537,E,Estimated value,,CH4,2000,1.0841701078240737,4828.568
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,306.5367,E,Estimated value,,N2O,2000,1.238965928137545,303.19872
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,0.0,E,Estimated value,,N2O,2000,0.0,0.0
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,3.0603,E,Estimated value,,N2O,2000,1.165116995818125,3.3756399999999998
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,167.0734,E,Estimated value,,CH4,2000,1.127471768308298,166.25498
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,1076.72,E,Estimated value,,CH4,2000,1.0235073307484206,1061.6488
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2001,2001,3050,FAO TIER 1,kt,32.3508,E,Estimated value,,N2O,2000,1.3656313127184532,29.95734
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,4461.8053,E,Estimated value,,CH4,2000,0.9954526232426133,4779.814039999999
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,281.9678,E,Estimated value,,N2O,2000,1.139662875707547,300.59116
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,0.0444,E,Estimated value,,N2O,2000,0.9580436346199954,0.041
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,2.2556,E,Estimated value,,CH4,2000,0.7852818642146757,2.9008599999999998
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,57.2522,E,Estimated value,,N2O,2000,1.3325884843730056,54.70594
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,327.803,E,Estimated value,,CH4,2000,1.0223969337462167,343.09309999999994
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,0.0002,E,Estimated value,,N2O,2000,0.144,3.999999999999998e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,2.5674,E,Estimated value,,N2O,2000,0.9774601754937274,3.17844
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,167.1056,E,Estimated value,,CH4,2000,1.127689065561718,166.92366
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,4.6969,E,Estimated value,,N2O,2000,1.5468889676522897,4.1363
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,88.7449,E,Estimated value,,CH4,2000,1.0042617272717282,87.81469999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,33.091,E,Estimated value,,N2O,2000,1.3968775353056597,31.14494
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,1087.7978,E,Estimated value,,CH4,2000,1.0340376538673046,1071.9159800000002
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,21.2553,E,Estimated value,,CH4,2000,0.7532139238760491,22.43344
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2002,2002,3050,FAO TIER 1,kt,1.5762,E,Estimated value,,N2O,2000,0.8441674586887514,1.1755400000000003
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,30.5128,E,Estimated value,,N2O,2000,1.2880434214521934,31.741100000000007
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,1083.1288,E,Estimated value,,CH4,2000,1.0295994009071439,1084.1163199999999
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,2.314,E,Estimated value,,N2O,2000,0.8809857622857697,2.884
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,168.7062,E,Estimated value,,CH4,2000,1.1384904936307838,167.13190000000003
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,0.0003,E,Estimated value,,N2O,2000,0.21599999999999994,9.999999999999998e-05
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,361.3016,E,Estimated value,,CH4,2000,1.126876959630028,344.09388
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,59.195,E,Estimated value,,N2O,2000,1.3778086315016727,56.2606
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,300.6888,E,Estimated value,,N2O,2000,1.215329773474317,299.72858
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,4614.2858,E,Estimated value,,CH4,2000,1.0294718382268138,4733.0030400000005
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,2.3647,E,Estimated value,,CH4,2000,0.8232647740328266,2.7204
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,0.0472,E,Estimated value,,N2O,2000,1.0184608007672022,0.04088
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,23.7017,E,Estimated value,,CH4,2000,0.8399058333466455,21.49944
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,1.7366,E,Estimated value,,N2O,2000,0.930073092728642,1.2645
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,98.6885,E,Estimated value,,CH4,2000,1.116786243174041,90.93755999999999
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2003,2003,3050,FAO TIER 1,kt,3.9832,E,Estimated value,,N2O,2000,1.3118371981418806,4.19468
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,2.353,E,Estimated value,,N2O,2000,0.8958338369310356,2.68638
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,166.8139,E,Estimated value,,CH4,2000,1.1257205683933145,166.76722
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,1.5507,E,Estimated value,,N2O,2000,0.830510390933033,1.35234
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,30.3089,E,Estimated value,,CH4,2000,1.0740420270411044,23.0747
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,369.8957,E,Estimated value,,CH4,2000,1.1536814168446,344.19205999999997
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,61.8039,E,Estimated value,,N2O,2000,1.438532762572282,57.826
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,313.0045,E,Estimated value,,N2O,2000,1.2651076065401898,299.98532
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,4541.5989,E,Estimated value,,CH4,2000,1.013255002122295,4663.656139999999
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,0.0538,E,Estimated value,,N2O,2000,1.1608726923999042,0.04278
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,2.2597,E,Estimated value,,CH4,2000,0.7867092696248904,2.55758
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,0.0004,E,Estimated value,,N2O,2000,0.288,0.00017999999999999998
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,4.0999,E,Estimated value,,N2O,2000,1.3502714723493414,4.17338
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,77.9379,E,Estimated value,,CH4,2000,0.8819667392033933,87.66504
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,1034.9954,E,Estimated value,,CH4,2000,0.9838448056977616,1074.70672
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2004,2004,3050,FAO TIER 1,kt,30.0313,E,Estimated value,,N2O,2000,1.2677177578805372,31.48164
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,4728.9712,E,Estimated value,,CH4,2000,1.0550587642806308,4641.2229800000005
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,336.0902,E,Estimated value,,N2O,2000,1.358415832691267,307.6576
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,0.0007,E,Estimated value,,N2O,2000,0.5039999999999999,0.00031999999999999997
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,99.1055,E,Estimated value,,CH4,2000,1.121505130008916,89.46572
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,4.6562,E,Estimated value,,N2O,2000,1.5334847263477167,4.29268
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,167.6873,E,Estimated value,,CH4,2000,1.1316145876832822,167.47728
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,2.2735,E,Estimated value,,N2O,2000,0.8655666078464552,2.51364
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,31.4901,E,Estimated value,,N2O,2000,1.329298397586315,31.4952
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,1062.7798,E,Estimated value,,CH4,2000,1.0102560705395462,1069.08436
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,384.4249,E,Estimated value,,CH4,2000,1.1989970775609007,351.12461999999994
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,67.6664,E,Estimated value,,N2O,2000,1.5749869073848262,60.24674
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,3.0388,E,Estimated value,,CH4,2000,1.0579511123317773,2.54146
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,0.0674,E,Estimated value,,N2O,2000,1.4543274994006237,0.049519999999999995
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,1.9643,E,Estimated value,,N2O,2000,1.0520226742179382,1.58326
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2005,2005,3050,FAO TIER 1,kt,25.8752,E,Estimated value,,CH4,2000,0.9169271157347837,24.08032
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,33.8581,E,Estimated value,,N2O,2000,1.4292592934070458,31.796660000000003
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,1068.3129,E,Estimated value,,CH4,2000,1.0155157187412738,1067.40294
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,1.7693,E,Estimated value,,N2O,2000,0.9475862737330338,1.7194200000000002
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,25.6535,E,Estimated value,,CH4,2000,0.9090708386216251,25.358919999999998
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,4746.9305,E,Estimated value,,CH4,2000,1.0590655801532556,4618.71834
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,358.5879,E,Estimated value,,N2O,2000,1.4493474691362997,318.06784
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,3.167,E,Estimated value,,CH4,2000,1.1025836424755622,2.6171599999999997
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,0.0645,E,Estimated value,,N2O,2000,1.3917525773195878,0.055459999999999995
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,68.6067,E,Estimated value,,N2O,2000,1.5968731048035445,62.90484
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,378.663,E,Estimated value,,CH4,2000,1.1810260739625436,364.41764
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,98.6028,E,Estimated value,,CH4,2000,1.1158164383736842,92.61592
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,4.5383,E,Estimated value,,N2O,2000,1.4946552410944207,4.3949
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,156.017,E,Estimated value,,CH4,2000,1.0528591797147584,165.26600000000002
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,2.2713,E,Estimated value,,N2O,2000,0.8647290241485173,2.35584
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2006,2006,3050,FAO TIER 1,kt,0.0025,E,Estimated value,,N2O,2000,1.7999999999999996,0.0008199999999999999
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,1.9485,E,Estimated value,,N2O,2000,1.0435606479222383,1.7938800000000001
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,27.0921,E,Estimated value,,CH4,2000,0.9600498203762031,26.526279999999996
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,0.0054,E,Estimated value,,N2O,2000,3.8879999999999995,0.0018599999999999999
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,1067.9604,E,Estimated value,,CH4,2000,1.0151806396732812,1063.43546
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,33.2066,E,Estimated value,,N2O,2000,1.4017573830915029,31.81978
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,88.4569,E,Estimated value,,CH4,2000,1.0010026399613108,92.55832000000001
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,4.1859,E,Estimated value,,N2O,2000,1.3785949306341883,4.2927
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,2.3109,E,Estimated value,,N2O,2000,0.8798055307114026,2.3045400000000003
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,167.7607,E,Estimated value,,CH4,2000,1.132109917447289,165.39702000000003
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,376.5744,E,Estimated value,,N2O,2000,1.5220456506801279,336.98915999999997
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,4761.535,E,Estimated value,,CH4,2000,1.062323922205103,4678.66428
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,0.0683,E,Estimated value,,N2O,2000,1.473747302805083,0.06024
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,3.3206,E,Estimated value,,CH4,2000,1.1560591232094575,2.8301600000000002
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,369.8016,E,Estimated value,,CH4,2000,1.153387924864766,372.81735999999995
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2007,2007,3050,FAO TIER 1,kt,65.9826,E,Estimated value,,N2O,2000,1.535795182176236,64.65092
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,39.1368,E,Estimated value,,N2O,2000,1.652090197447963,33.54458
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,1139.1475,E,Estimated value,,CH4,2000,1.0828495960451523,1074.6392
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,168.4716,E,Estimated value,,CH4,2000,1.1369073279272959,165.3501
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,2.3911,E,Estimated value,,N2O,2000,0.9103392636998721,2.31996
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,1.4639,E,Estimated value,,N2O,2000,0.7840228034351371,1.7393399999999999
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,29.5674,E,Estimated value,,CH4,2000,1.0477658453568144,27.699419999999996
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,2.3363,E,Estimated value,,CH4,2000,0.8133773804596325,2.82448
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,0.0573,E,Estimated value,,N2O,2000,1.2363941500839128,0.062259999999999996
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,387.1623,E,Estimated value,,N2O,2000,1.5648400284839195,354.28386
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,4935.7738,E,Estimated value,,CH4,2000,1.1011975302781951,4742.96188
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,70.4005,E,Estimated value,,N2O,2000,1.6386251636461442,66.89202
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,433.4161,E,Estimated value,,CH4,2000,1.351797548150089,387.2402599999999
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,0.0014,E,Estimated value,,N2O,2000,1.0079999999999998,0.00208
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,5.4013,E,Estimated value,,N2O,2000,1.7788778515574764,4.57632
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2008,2008,3050,FAO TIER 1,kt,114.059,E,Estimated value,,CH4,2000,1.2907230539544925,95.63242
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,4547.1724,E,Estimated value,,CH4,2000,1.0144984797782213,4744.076580000001
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,397.4599,E,Estimated value,,N2O,2000,1.606461066165832,371.17494
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,4.7456,E,Estimated value,,N2O,2000,1.5629279492624293,4.7054599999999995
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,102.0972,E,Estimated value,,CH4,2000,1.1553600310734147,100.46428
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,31.4614,E,Estimated value,,CH4,2000,1.1148826196117643,27.92992
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,2.0896,E,Estimated value,,N2O,2000,1.1191297561705462,1.8471199999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,36.5223,E,Estimated value,,N2O,2000,1.5417237438485962,34.84278
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,1146.3955,E,Estimated value,,CH4,2000,1.0897393920304268,1096.9192200000002
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,160.5365,E,Estimated value,,CH4,2000,1.0833584013554824,164.09462
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,2.7904,E,Estimated value,,N2O,2000,1.0623607048756318,2.4074400000000002
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2000,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,0.003,E,Estimated value,,N2O,2000,2.1599999999999997,0.0026000000000000003
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,0.0725,E,Estimated value,,N2O,2000,1.5643730520258932,0.066
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,2.8452,E,Estimated value,,CH4,2000,0.9905497251567634,2.9415800000000005
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,422.0165,E,Estimated value,,CH4,2000,1.3162429129395101,397.66442
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2009,2009,3050,FAO TIER 1,kt,81.9175,E,Estimated value,,N2O,2000,1.9066920951269242,70.91474
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,0.0027,E,Estimated value,,N2O,2010,1.9439999999999997,0.003
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,3.2172,E,Estimated value,,N2O,2010,1.2248519422756174,2.59618
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,162.1942,E,Estimated value,,CH4,2010,1.0945451608894639,162.996
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,348.8015,E,Estimated value,,CH4,2010,1.0878899341558221,390.53974
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,77.3772,E,Estimated value,,N2O,2010,1.8010131605951725,72.8569
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,2.7291,E,Estimated value,,CH4,2010,0.9501297817114167,2.8796399999999998
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,0.0518,E,Estimated value,,N2O,2010,1.1177175737233278,0.06288
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,114.8755,E,Estimated value,,CH4,2010,1.2999627928050335,103.61828
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,4.572,E,Estimated value,,N2O,2010,1.5057540846316224,4.68862
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,4649.3597,E,Estimated value,,CH4,2010,1.0372970128847823,4728.154280000001
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,420.8022,E,Estimated value,,N2O,2010,1.7008064231308058,388.11734
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,1164.1262,E,Estimated value,,CH4,2010,1.1065938216215003,1117.1885
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,37.2058,E,Estimated value,,N2O,2010,1.5705764770806356,35.98592000000001
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,32.4707,E,Estimated value,,CH4,2010,1.1506487021120393,29.249019999999994
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2010,2010,3050,FAO TIER 1,kt,1.917,E,Estimated value,,N2O,2010,1.0266901524592922,1.83766
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,2.9134,E,Estimated value,,CH4,2010,1.0142933956388707,2.82892
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,0.0631,E,Estimated value,,N2O,2010,1.3615439942459844,0.0626
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,39.5956,E,Estimated value,,N2O,2010,1.6714576210132293,37.13342
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,1164.0567,E,Estimated value,,CH4,2010,1.1065277563868183,1136.33726
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,3.6474,E,Estimated value,,N2O,2010,1.38863762720878,2.8714
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,166.0386,E,Estimated value,,CH4,2010,1.1204885634064679,165.00032
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,0.0015,E,Estimated value,,N2O,2010,1.0799999999999998,0.0028
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,4774.8279,E,Estimated value,,CH4,2010,1.065289639282785,4733.73376
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,443.9447,E,Estimated value,,N2O,2010,1.7943442246140315,405.18870000000004
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,1.8261,E,Estimated value,,N2O,2010,0.9780067226947906,1.84902
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,32.6219,E,Estimated value,,CH4,2010,1.1560067043651272,30.6427
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,378.0684,E,Estimated value,,CH4,2010,1.1791715539709464,390.42082
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,76.5456,E,Estimated value,,N2O,2010,1.7816570383220616,74.44467999999999
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,118.1713,E,Estimated value,,CH4,2010,1.337258973213622,107.53198
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2011,2011,3050,FAO TIER 1,kt,5.4186,E,Estimated value,,N2O,2010,1.7845754774682652,4.86468
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,0.0063,E,Estimated value,,N2O,2010,4.536,0.00298
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,2.5367,E,Estimated value,,CH4,2010,0.8831461717296365,2.67214
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,0.0569,E,Estimated value,,N2O,2010,1.2277631263485975,0.06032
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,4.4725,E,Estimated value,,N2O,2010,1.4729845020811312,4.922
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,115.5527,E,Estimated value,,CH4,2010,1.3076261744946676,112.95113999999998
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,340.7192,E,Estimated value,,CH4,2010,1.06268174894209,384.60434
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,68.8573,E,Estimated value,,N2O,2010,1.6027060103370239,75.01962
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,4641.2129,E,Estimated value,,CH4,2010,1.0354794182373797,4709.66934
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,433.4476,E,Estimated value,,N2O,2010,1.7519168439961395,416.56334
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,3.3756,E,Estimated value,,N2O,2010,1.2851579685271584,3.08434
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,154.1641,E,Estimated value,,CH4,2010,1.0403551399364428,162.281
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,1153.5173,E,Estimated value,,CH4,2010,1.096509224956465,1153.44864
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,36.5467,E,Estimated value,,N2O,2010,1.5427537463224246,37.80144
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,2.1553,E,Estimated value,,N2O,2010,1.1543167895646909,1.89038
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2012,2012,3050,FAO TIER 1,kt,32.1035,E,Estimated value,,CH4,2010,1.1376364109259687,31.644979999999997
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,1148.5394,E,Estimated value,,CH4,2010,1.0917773381690619,1155.32702
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,36.425,E,Estimated value,,N2O,2010,1.537616397918124,37.25908
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,4790.7908,E,Estimated value,,CH4,2010,1.0688510476390751,4680.67274
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,432.7161,E,Estimated value,,N2O,2010,1.7489602532308814,425.6741
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,4.1011,E,Estimated value,,N2O,2010,1.5613702289153717,3.4263399999999997
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,161.1434,E,Estimated value,,CH4,2010,1.0874539821971145,160.81536
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,0.0054,E,Estimated value,,N2O,2010,3.8879999999999995,0.00378
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,32.1506,E,Estimated value,,CH4,2010,1.139305471151633,32.16162
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,2.571,E,Estimated value,,N2O,2010,1.376953772547126,2.1118
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,409.1908,E,Estimated value,,CH4,2010,1.2762403615499596,379.75928
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,77.7641,E,Estimated value,,N2O,2010,1.8100185522587926,76.49233999999998
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,3.8834,E,Estimated value,,N2O,2010,1.2789688128299306,4.61842
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,128.7194,E,Estimated value,,CH4,2010,1.4566241775851962,115.88322000000001
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,0.0562,E,Estimated value,,N2O,2010,1.212658834811796,0.0601
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2013,2013,3050,FAO TIER 1,kt,2.5475,E,Estimated value,,CH4,2010,0.8869061664687384,2.71438
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,76.1438,E,Estimated value,,N2O,2010,1.7723048378298347,75.3376
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,424.0045,E,Estimated value,,CH4,2010,1.3224433598673524,380.15688
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,154.8166,E,Estimated value,,CH4,2010,1.0447584460810544,159.67138
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,4.514,E,Estimated value,,N2O,2010,1.7185694602238397,3.77106
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,437.0865,E,Estimated value,,N2O,2010,1.7666246199847884,433.59942
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,4788.881,E,Estimated value,,CH4,2010,1.0684249610458596,4729.01446
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,0.0043,E,Estimated value,,N2O,2010,3.095999999999999,0.004039999999999999
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,39.0848,E,Estimated value,,N2O,2010,1.6498951102086563,37.77158
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,1153.1487,E,Estimated value,,CH4,2010,1.0961588415679202,1156.6776599999998
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,95.5113,E,Estimated value,,CH4,2010,1.0808321730259227,114.56604000000002
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,5.6616,E,Estimated value,,N2O,2010,1.8646057142498673,4.80162
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,3.4559,E,Estimated value,,N2O,2010,1.8508808022347774,2.38506
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,34.3413,E,Estimated value,,CH4,2010,1.2169362617325827,32.7376
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,2.4401,E,Estimated value,,CH4,2010,0.8495151076743351,2.6333600000000006
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2014,2014,3050,FAO TIER 1,kt,0.0591,E,Estimated value,,N2O,2010,1.2752337568928316,0.057420000000000006
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,4724.2539,E,Estimated value,,CH4,2010,1.0540063094234853,4743.9933
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,443.3432,E,Estimated value,,N2O,2010,1.7919130703484094,438.10762000000005
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,0.0048,E,Estimated value,,N2O,2010,3.455999999999999,0.00446
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,402.7396,E,Estimated value,,CH4,2010,1.2561194746179194,390.94449999999995
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,76.3838,E,Estimated value,,N2O,2010,1.7778910203040368,75.13892
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,4.5929,E,Estimated value,,N2O,2010,1.7486082573908004,4.046200000000001
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,148.0704,E,Estimated value,,CH4,2010,0.9992326469810097,156.84662
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,25.9052,E,Estimated value,,CH4,2010,0.9179902114199202,31.424499999999995
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,3.5548,E,Estimated value,,N2O,2010,1.9038488022755828,2.7126200000000003
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,0.0599,E,Estimated value,,N2O,2010,1.2924958043634622,0.05904
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,2.392,E,Estimated value,,CH4,2010,0.83276920517889,2.5659400000000003
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,1149.7276,E,Estimated value,,CH4,2010,1.0929068160373985,1153.79794
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,40.9979,E,Estimated value,,N2O,2010,1.7306532140070685,38.529999999999994
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,4.3872,E,Estimated value,,N2O,2010,1.4448915835730214,4.76466
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2015,2015,3050,FAO TIER 1,kt,131.1901,E,Estimated value,,CH4,2010,1.4845832991749468,117.82896000000001
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,123.6751,E,Estimated value,,CH4,2010,1.399541489668744,118.92972
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,3.6316,E,Estimated value,,N2O,2010,1.1960403617122048,4.40726
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,19.7334,E,Estimated value,,CH4,2010,0.6992830797690754,28.846799999999995
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,3.5814,E,Estimated value,,N2O,2010,1.9180949984442928,3.06368
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,401.1461,E,Estimated value,,CH4,2010,1.2511494483706775,395.56004
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,78.3646,E,Estimated value,,N2O,2010,1.8239956463244527,75.50272
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,168.2348,E,Estimated value,,CH4,2010,1.1353093158276115,157.28586
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,4.7693,E,Estimated value,,N2O,2010,1.8157672411709256,4.27058
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,0.0071,E,Estimated value,,N2O,2010,5.111999999999999,0.00558
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,4774.2774,E,Estimated value,,CH4,2010,1.0651668197888249,4743.8832
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,433.1296,E,Estimated value,,N2O,2010,1.7506315454816457,435.9446
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,2.5673,E,Estimated value,,CH4,2010,0.8937994901570921,2.49672
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,0.0597,E,Estimated value,,N2O,2010,1.2881802924958046,0.05836
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,1111.3741,E,Estimated value,,CH4,2010,1.0564487875714468,1143.26142
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2016,2016,3050,FAO TIER 1,kt,37.5825,E,Estimated value,,N2O,2010,1.5864781956007663,38.12738
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,85.8052,E,Estimated value,,CH4,2010,0.9709952725271659,112.98022
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,3.0088,E,Estimated value,,N2O,2010,0.9909258289238025,4.114520000000001
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,425.813,E,Estimated value,,CH4,2010,1.3280839575881787,412.57880000000006
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,83.0084,E,Estimated value,,N2O,2010,1.932083622048204,78.33294
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,159.4239,E,Estimated value,,CH4,2010,1.0758501738972528,158.33782000000002
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,4.4681,E,Estimated value,,N2O,2010,1.7010944185259498,4.4890799999999995
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,0.0073,E,Estimated value,,N2O,2010,5.255999999999999,0.0057799999999999995
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,4752.8302,E,Estimated value,,CH4,2010,1.0603818347736318,4766.20666
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,441.024,E,Estimated value,,N2O,2010,1.7825392831949083,437.45988
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,2.5459,E,Estimated value,,CH4,2010,0.8863491302110937,2.49856
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,0.0612,E,Estimated value,,N2O,2010,1.3205466315032368,0.059219999999999995
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,1173.4421,E,Estimated value,,CH4,2010,1.1154493197477722,1147.24638
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,39.9085,E,Estimated value,,N2O,2010,1.6846661363435953,38.79974
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,18.123,E,Estimated value,,CH4,2010,0.642216103390949,26.0507
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2017,2017,3050,FAO TIER 1,kt,4.3288,E,Estimated value,,N2O,2010,2.318380976507973,3.49838
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,112.8138,E,Estimated value,,CH4,2010,1.2766320278470908,109.7991
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,2.5,E,Estimated value,,N2O,2010,0.8233563454897324,3.83784
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,412.7216,E,Estimated value,,CH4,2010,1.2872527046147613,413.28495999999996
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,82.6942,E,Estimated value,,N2O,2010,1.924770378159061,79.31895999999999
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,161.9082,E,Estimated value,,CH4,2010,1.0926151293839328,158.49078
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,5.3595,E,Estimated value,,N2O,2010,2.0404681041359476,4.74076
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,0.0085,E,Estimated value,,N2O,2010,6.119999999999999,0.0064
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,4792.3414,E,Estimated value,,CH4,2010,1.0691969947913635,4766.51678
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,455.8985,E,Estimated value,,N2O,2010,1.842659323301303,442.09636
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,1.8016,E,Estimated value,,CH4,2010,0.6272228261079801,2.34938
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,0.0614,E,Estimated value,,N2O,2010,1.3248621433708945,0.06026
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,1163.3096,E,Estimated value,,CH4,2010,1.1058175788784577,1150.20042
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,41.7512,E,Estimated value,,N2O,2010,1.7624524297257156,39.86498
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,18.5945,E,Estimated value,,CH4,2010,0.6589244239090107,23.339480000000002
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2018,2018,3050,FAO TIER 1,kt,3.693,E,Estimated value,,N2O,2010,1.9778647537987304,3.72278
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,103.7724,E,Estimated value,,CH4,2010,1.1743170555956757,111.45132000000001
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,4.1183,E,Estimated value,,N2O,2010,1.3563313750521457,3.5291799999999993
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,444.2477,E,Estimated value,,CH4,2010,1.38558062709557,417.33360000000005
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,84.0311,E,Estimated value,,N2O,2010,1.9558877421163985,80.89642
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,158.3705,E,Estimated value,,CH4,2010,1.068741449463944,159.20156000000003
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,5.2368,E,Estimated value,,N2O,2010,1.9937537769827653,4.885319999999999
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2010,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,0.0049,E,Estimated value,,N2O,2010,3.527999999999999,0.00652
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,4738.7185,E,Estimated value,,CH4,2010,1.0572334390371767,4756.48428
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,482.0258,E,Estimated value,,N2O,2010,1.9482611468161648,451.08422
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,1.4724,E,Estimated value,,CH4,2010,0.5126126160975742,2.15584
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,0.042,E,Estimated value,,N2O,2010,0.9062574922081037,0.05684
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,1163.4466,E,Estimated value,,CH4,2010,1.1059478081899894,1152.2599999999998
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,41.742,E,Estimated value,,N2O,2010,1.7620640681372228,40.39642
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,20.8235,E,Estimated value,,CH4,2010,0.7379124333146514,20.63592
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2019,2019,3050,FAO TIER 1,kt,2.8395,E,Estimated value,,N2O,2010,1.5207546624455714,3.5995
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,115.5841,E,Estimated value,,CH4,2020,1.3079815055417061,108.33012
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,6.2442,E,Estimated value,,N2O,2020,2.056480677002795,3.90058
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,487.317,E,Estimated value,,CH4,2020,1.5199110641525706,434.24908000000005
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,85.3025,E,Estimated value,,N2O,2020,1.9854805437734848,82.68016
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,159.9604,E,Estimated value,,CH4,2020,1.0794706700606,161.57956
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,5.5466,E,Estimated value,,N2O,2020,2.1117007904469536,5.07606
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2020,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,0.0051,E,Estimated value,,N2O,2020,3.6719999999999997,0.00658
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,4967.1224,E,Estimated value,,CH4,2020,1.1081915705840293,4805.05798
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,518.2688,E,Estimated value,,N2O,2020,2.0947488010953723,466.06934
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,1.5101,E,Estimated value,,CH4,2020,0.5257377829183285,1.97946
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,0.0483,E,Estimated value,,N2O,2020,1.0421961160393194,0.05452
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,1153.663,E,Estimated value,,CH4,2020,1.0966477243045687,1153.0470799999998
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,42.5243,E,Estimated value,,N2O,2020,1.7950874671239447,40.701699999999995
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,24.1403,E,Estimated value,,CH4,2020,0.8554482922633408,20.28294
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2020,2020,3050,FAO TIER 1,kt,2.6341,E,Estimated value,,N2O,2020,1.410748320601472,3.4153599999999997
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,122.1727,E,Estimated value,,CH4,2020,1.3825399175327333,108.02964
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,3.8003,E,Estimated value,,N2O,2020,1.2516004479058518,3.9343200000000005
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,517.0599,E,Estimated value,,CH4,2020,1.61267729802084,457.43184
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,90.0553,E,Estimated value,,N2O,2020,2.0961055773709365,85.0183
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,160.4312,E,Estimated value,,CH4,2020,1.0826477988466279,160.01884
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,5.4281,E,Estimated value,,N2O,2020,2.0665854867171074,5.20782
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2020,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,0.0054,E,Estimated value,,N2O,2020,3.8879999999999995,0.00624
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,5022.7729,E,Estimated value,,CH4,2020,1.1206074947414018,4854.75708
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,502.3278,E,Estimated value,,N2O,2020,2.0303181607823504,479.90898000000004
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,1.1584,E,Estimated value,,CH4,2020,0.4032942505347936,1.69768
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,0.0331,E,Estimated value,,N2O,2020,0.7142172140973388,0.0492
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,1182.2366,E,Estimated value,,CH4,2020,1.1238091860270898,1167.2195800000002
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,46.3592,E,Estimated value,,N2O,2020,1.9569709297011917,42.45704
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,22.5694,E,Estimated value,,CH4,2020,0.799781058537311,20.85014
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2021,2021,3050,FAO TIER 1,kt,2.0776,E,Estimated value,,N2O,2020,1.1127029007560905,3.1146000000000003
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,120.7766,E,Estimated value,,CH4,2020,1.3667412654699775,115.02392
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,3.499,E,Estimated value,,N2O,2020,1.1523695411474293,4.03236
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,437.7452,E,Estimated value,,CH4,2020,1.3652997386909955,459.81827999999996
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,88.3434,E,Estimated value,,N2O,2020,2.056259803297658,86.08529999999999
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,157.415,E,Estimated value,,CH4,2020,1.0622933896613747,159.61705999999998
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,4.4769,E,Estimated value,,N2O,2020,1.704444753317702,5.20958
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2020,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,0.0037,E,Estimated value,,N2O,2020,2.6639999999999997,0.00552
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,5189.041,E,Estimated value,,CH4,2020,1.1577027970188376,4941.99924
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,518.704,E,Estimated value,,N2O,2020,2.096507800823383,495.44498000000004
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,1.0913,E,Estimated value,,CH4,2020,0.37993354247981714,1.40676
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,0.0311,E,Estimated value,,N2O,2020,0.6710620954207625,0.04318
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,1181.3422,E,Estimated value,,CH4,2020,1.1229589882443596,1168.7996
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,46.1083,E,Estimated value,,N2O,2020,1.9463796337715376,43.696999999999996
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,20.4965,E,Estimated value,,CH4,2020,0.7263246903466638,21.324840000000002
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2022,2022,3050,FAO TIER 1,kt,1.8643,E,Estimated value,,N2O,2020,0.9984655457641411,2.6216999999999997
+GCE,Emissions from Crops,144,Sri Lanka,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,126.0079,E,Estimated value,,CH4,2020,1.4259400968831246,117.66274000000001
+GCE,Emissions from Crops,144,Sri Lanka,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,3.6796,E,Estimated value,,N2O,2020,1.2118488035456076,4.26828
+GCE,Emissions from Crops,586,Pakistan,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,530.8386,E,Estimated value,,CH4,2020,1.6556521964537678,483.44168
+GCE,Emissions from Crops,586,Pakistan,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,92.4257,E,Estimated value,,N2O,2020,2.1512784396078075,88.0316
+GCE,Emissions from Crops,524,Nepal,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,156.2315,E,Estimated value,,CH4,2020,1.0543067033439069,158.48172
+GCE,Emissions from Crops,524,Nepal,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,4.4663,E,Estimated value,,N2O,2020,1.7004091227730915,5.030939999999999
+GCE,Emissions from Crops,462,Maldives,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,0.0001,E,Estimated value,,CH4,2020,1.9687500000000009,0.0001
+GCE,Emissions from Crops,462,Maldives,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,0.005,E,Estimated value,,N2O,2020,3.599999999999999,0.00482
+GCE,Emissions from Crops,356,India,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,5192.9975,E,Estimated value,,CH4,2020,1.158585513327382,5022.13046
+GCE,Emissions from Crops,356,India,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,526.8852,E,Estimated value,,N2O,2020,2.1295747322912266,509.64232000000004
+GCE,Emissions from Crops,64,Bhutan,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,1.1182,E,Estimated value,,CH4,2020,0.3892987145614694,1.27008
+GCE,Emissions from Crops,64,Bhutan,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,0.0307,E,Estimated value,,N2O,2020,0.6624310716854472,0.037040000000000003
+GCE,Emissions from Crops,50,Bangladesh,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,1176.2735,E,Estimated value,,CH4,2020,1.1181407888913573,1171.39238
+GCE,Emissions from Crops,50,Bangladesh,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,46.1401,E,Estimated value,,N2O,2020,1.9477220140448055,44.57478
+GCE,Emissions from Crops,4,Afghanistan,72440,Crops total (Emissions CH4),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,20.7613,E,Estimated value,,CH4,2020,0.735708281594135,21.7582
+GCE,Emissions from Crops,4,Afghanistan,72430,Crops total (Emissions N2O),F1712,All Crops,2023,2023,3050,FAO TIER 1,kt,2.2076,E,Estimated value,,N2O,2020,1.1823271677460268,2.3246200000000004
